@@ -13,6 +13,7 @@
 		E33FB18F20F843DA00B44C8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E33FB18E20F843DA00B44C8F /* Assets.xcassets */; };
 		E33FB19220F843DA00B44C8F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E33FB19020F843DA00B44C8F /* LaunchScreen.storyboard */; };
 		E33FB19520F843DA00B44C8F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E33FB19420F843DA00B44C8F /* main.m */; };
+		E33FB1A320F8459C00B44C8F /* Yhc1.m in Sources */ = {isa = PBXBuildFile; fileRef = E33FB1A220F8459C00B44C8F /* Yhc1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		E33FB19120F843DA00B44C8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E33FB19320F843DA00B44C8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E33FB19420F843DA00B44C8F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E33FB1A120F8459C00B44C8F /* Yhc1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Yhc1.h; sourceTree = "<group>"; };
+		E33FB1A220F8459C00B44C8F /* Yhc1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Yhc1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				E33FB18620F843D900B44C8F /* AppDelegate.m */,
 				E33FB18820F843D900B44C8F /* ViewController.h */,
 				E33FB18920F843D900B44C8F /* ViewController.m */,
+				E33FB1A120F8459C00B44C8F /* Yhc1.h */,
+				E33FB1A220F8459C00B44C8F /* Yhc1.m */,
 				E33FB18B20F843D900B44C8F /* Main.storyboard */,
 				E33FB18E20F843DA00B44C8F /* Assets.xcassets */,
 				E33FB19020F843DA00B44C8F /* LaunchScreen.storyboard */,
@@ -143,6 +148,7 @@
 			files = (
 				E33FB18A20F843D900B44C8F /* ViewController.m in Sources */,
 				E33FB19520F843DA00B44C8F /* main.m in Sources */,
+				E33FB1A320F8459C00B44C8F /* Yhc1.m in Sources */,
 				E33FB18720F843D900B44C8F /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
